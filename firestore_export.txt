@@ -1,0 +1,1515 @@
+{
+  "announcements": {
+    "1d5iBiFGykJT9XhvCQ6f": {
+      "title": "estilista",
+      "content": "asdasd",
+      "type": "info",
+      "startDate": "2025-09-03",
+      "endDate": "2025-10-03",
+      "active": true,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/secretosdebza.firebasestorage.app/o/announcements%2F1756924580585_logopelu.png?alt=media&token=6df79210-9b85-4e22-ae62-75ef99bbb368",
+      "createdAt": {
+        "_seconds": 1756924587,
+        "_nanoseconds": 976000000
+      }
+    },
+    "jCcA8jIamotqcqmS9eEE": {
+      "id": "",
+      "title": "pelu",
+      "content": "Todo en pelu",
+      "type": "info",
+      "startDate": "2025-09-12",
+      "endDate": "2025-10-12",
+      "active": true,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/secretosdebza.firebasestorage.app/o/announcements%2F1757638808541_marest.png?alt=media&token=bc45827d-9a86-41e3-97ae-87838188e6b5"
+    }
+  },
+  "appointments": {
+    "3Rze4FqRBFeLiPbOqAOr": {
+      "userId": "agrktnad4vTxABCagh3qag41rQu2",
+      "personalData": {
+        "name": "michael",
+        "lastname": "williams",
+        "email": "mmaik1987@gmail.com",
+        "phone": "02974176615",
+        "countryCode": "+54"
+      },
+      "treatments": [
+        {
+          "id": 1759856719586,
+          "treatmentId": "4s1euK869xXi4O284ptc",
+          "name": "Depilación con cera - Perfilado de cejas",
+          "zone": "zona-1",
+          "price": 1,
+          "duration": 30
+        }
+      ],
+      "date": "2025-10-08",
+      "time": "08:00",
+      "notes": "",
+      "paymentMethod": "mercadopago",
+      "createdAt": {
+        "_seconds": 1759856737,
+        "_nanoseconds": 623000000
+      },
+      "status": "confirmed",
+      "paymentUpdatedAt": {
+        "_seconds": 1759857066,
+        "_nanoseconds": 432000000
+      },
+      "paymentId": "null",
+      "paymentStatus": "failed"
+    },
+    "6yOi5P2xVItjFkrEfz5l": {
+      "userId": "TtnEbZtPODZwXK2LSHhCriWEPQn2",
+      "personalData": {
+        "name": "Michael",
+        "lastname": "W Martinez",
+        "email": "kawazulu.intel10@gmail.com",
+        "phone": "2974176615",
+        "countryCode": "+54"
+      },
+      "treatments": [
+        {
+          "id": 1758129059091,
+          "treatmentId": "4vCZOyiYR1jObLaPRF43",
+          "name": "Criolipolisis - Promo 3 zonas",
+          "zone": "zona-1",
+          "price": 0,
+          "duration": 0
+        }
+      ],
+      "date": "2025-09-19",
+      "time": "08:00",
+      "notes": "",
+      "paymentMethod": "mercadopago",
+      "paymentStatus": "pending",
+      "createdAt": {
+        "_seconds": 1758129066,
+        "_nanoseconds": 890000000
+      },
+      "status": "cancelled"
+    },
+    "PzHr9UYek2gxqEMtWgnE": {
+      "userId": "TtnEbZtPODZwXK2LSHhCriWEPQn2",
+      "personalData": {
+        "name": "Michael",
+        "lastname": "Williams Martinez",
+        "email": "kawazulu.intel10@gmail.com",
+        "phone": "2974176615",
+        "countryCode": "+54"
+      },
+      "treatments": [
+        {
+          "id": 1758222694303,
+          "treatmentId": "Bhe1sRnald8H4ABxqFQs",
+          "name": "Pestañas - Permanentes",
+          "zone": "zona-1",
+          "price": 0,
+          "duration": 0
+        }
+      ],
+      "date": "2025-09-20",
+      "time": "09:00",
+      "notes": "",
+      "paymentMethod": "mercadopago",
+      "paymentStatus": "pending",
+      "createdAt": {
+        "_seconds": 1758222725,
+        "_nanoseconds": 923000000
+      },
+      "status": "cancelled"
+    },
+    "TzsskL8lHV2AZDqaRsXo": {
+      "userId": "U7unBrTJZfYMmtaE6z5rlchVRzj2",
+      "personalData": {
+        "name": "Michael",
+        "lastname": "Williams Martinez",
+        "email": "kawazulu.intel02@gmail.com",
+        "phone": "02974176615",
+        "countryCode": "+54"
+      },
+      "treatments": [
+        {
+          "id": 1758154468848,
+          "treatmentId": "AH4Zb6lvTX3c0YmvDoju",
+          "name": "Masaje",
+          "zone": "zona-1",
+          "price": 1,
+          "duration": 30
+        }
+      ],
+      "date": "2025-09-20",
+      "time": "08:00",
+      "notes": "",
+      "paymentMethod": "mercadopago",
+      "paymentStatus": "pending",
+      "createdAt": {
+        "_seconds": 1758154479,
+        "_nanoseconds": 600000000
+      },
+      "status": "cancelled"
+    },
+    "ZQgszCCUYIkIhhty1EHu": {
+      "userId": "6MQ5EEU5i3fRJiO6wDl9s0Q4mwV2",
+      "personalData": {
+        "name": "Michael",
+        "lastname": "Williams",
+        "email": "kawazulu.intel12@gmail.com",
+        "phone": "2974176615",
+        "countryCode": "+54"
+      },
+      "treatments": [
+        {
+          "id": 1758222248205,
+          "treatmentId": "AUmHDepE1PSG4FlKm2rK",
+          "name": "Tratamiento Corporal - Flacidez",
+          "zone": "zona-2",
+          "price": 0,
+          "duration": 0
+        }
+      ],
+      "date": "2025-09-19",
+      "time": "09:00",
+      "notes": "",
+      "paymentMethod": "mercadopago",
+      "paymentStatus": "pending",
+      "createdAt": {
+        "_seconds": 1758222271,
+        "_nanoseconds": 676000000
+      },
+      "status": "cancelled"
+    },
+    "iKmuqTaUM8CgrCAYvE9p": {
+      "userId": "agrktnad4vTxABCagh3qag41rQu2",
+      "personalData": {
+        "name": "michael",
+        "lastname": "williams",
+        "email": "mmaik1987@gmail.com",
+        "phone": "02974176615",
+        "countryCode": "+54"
+      },
+      "treatments": [
+        {
+          "id": 1759856536892,
+          "treatmentId": "2lrEX2y5X6lIbF5QvS5a",
+          "name": "Microblading - Párpados",
+          "zone": "zona-1",
+          "price": 0,
+          "duration": 0
+        }
+      ],
+      "date": "2025-10-08",
+      "time": "08:00",
+      "notes": "",
+      "paymentMethod": "mercadopago",
+      "paymentStatus": "pending",
+      "createdAt": {
+        "_seconds": 1759856557,
+        "_nanoseconds": 667000000
+      },
+      "status": "cancelled"
+    },
+    "tQnwj43IeNZsEfKZ5lO1": {
+      "userId": "U7unBrTJZfYMmtaE6z5rlchVRzj2",
+      "personalData": {
+        "name": "Michael",
+        "lastname": "Williams Martinez",
+        "email": "kawazulu.intel02@gmail.com",
+        "phone": "02974176615",
+        "countryCode": "+54"
+      },
+      "treatments": [
+        {
+          "id": 1758154520455,
+          "treatmentId": "9FCjYClkRPKUm49LqkpW",
+          "name": "Microblading - Párpados",
+          "zone": "",
+          "price": 0,
+          "duration": 0
+        }
+      ],
+      "date": "2025-09-20",
+      "time": "08:30",
+      "notes": "",
+      "paymentMethod": "mercadopago",
+      "paymentStatus": "pending",
+      "createdAt": {
+        "_seconds": 1758154532,
+        "_nanoseconds": 627000000
+      },
+      "status": "cancelled"
+    }
+  },
+  "coupons": {
+    "K6iqnzgzrgT86Ck6uoQx": {
+      "codigo": "L4SP2MTS",
+      "tipo": "general",
+      "descuentoTipo": "monto",
+      "descuentoValor": 51,
+      "minCompra": 0,
+      "maxDescuento": 0,
+      "validoDesde": "2025-10-07",
+      "validoHasta": "2025-11-06",
+      "limiteUsos": 10,
+      "descripcion": "papita",
+      "activo": true,
+      "soloVip": false,
+      "precio": 10,
+      "motivo": "regalo de cumplea;os",
+      "ocasionesEspeciales": [
+        "Cumpleaños",
+        "Navidad"
+      ],
+      "usos": 0,
+      "creadoEn": {
+        "_seconds": 1759856057,
+        "_nanoseconds": 35000000
+      }
+    }
+  },
+  "notifications": {
+    "4jndJkPhwCEb2MqiAx2m": {
+      "title": "lhkhjkh",
+      "clientId": "ahkN50Ie7TRrJZlpt4hE3A5GIbJ2",
+      "clientEmail": "mmaik1987@gmail.com",
+      "clientName": "michael williams",
+      "message": "dfgdgf",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/secretosdebza.firebasestorage.app/o/users%2F66Ea8Ayi5VRpAFC4NQt2vttOF8G2%2Fnotifications%2F1760646140424_cur%20michael.png?alt=media&token=1c7dcc28-5423-4f30-8c43-f484f2c9e221",
+      "createdBy": "66Ea8Ayi5VRpAFC4NQt2vttOF8G2",
+      "type": "admin_message",
+      "fcmTokens": [
+        "c1Kqcg90jLjseQeJsi7idr:APA91bGNbjo5dOH_0e5uRAUFVk25AWCRyh0GPPoqstP6W6dVxjm19RUKhWqd0SLuyOyvcloumJDkzKyJ5WGJELXV39Esrtbuj3bb_g27lN8ZypQzsZNR_fI"
+      ],
+      "createdAt": {
+        "_seconds": 1760646142,
+        "_nanoseconds": 153000000
+      },
+      "errorMessage": "Enviado a 1 dispositivos, 0 fallos",
+      "status": "sent",
+      "updatedAt": {
+        "_seconds": 1760646144,
+        "_nanoseconds": 692000000
+      }
+    },
+    "gxQuQJgjxR9o5G7ig4k7": {
+      "title": "holaa",
+      "clientId": "ahkN50Ie7TRrJZlpt4hE3A5GIbJ2",
+      "clientEmail": "mmaik1987@gmail.com",
+      "clientName": "michael williams",
+      "message": "hjkhjkhkhjk",
+      "imageUrl": null,
+      "createdBy": "66Ea8Ayi5VRpAFC4NQt2vttOF8G2",
+      "type": "admin_message",
+      "fcmTokens": [
+        "c1Kqcg90jLjseQeJsi7idr:APA91bGNbjo5dOH_0e5uRAUFVk25AWCRyh0GPPoqstP6W6dVxjm19RUKhWqd0SLuyOyvcloumJDkzKyJ5WGJELXV39Esrtbuj3bb_g27lN8ZypQzsZNR_fI"
+      ],
+      "createdAt": {
+        "_seconds": 1760646405,
+        "_nanoseconds": 810000000
+      },
+      "errorMessage": "Enviado a 1 dispositivos, 0 fallos",
+      "status": "sent",
+      "updatedAt": {
+        "_seconds": 1760646406,
+        "_nanoseconds": 761000000
+      }
+    },
+    "ozS71xf9DeE7OfmbSTQQ": {
+      "title": "hlaaaa",
+      "clientId": "ahkN50Ie7TRrJZlpt4hE3A5GIbJ2",
+      "clientEmail": "mmaik1987@gmail.com",
+      "clientName": "michael williams",
+      "message": "dfdfgdfg",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/secretosdebza.firebasestorage.app/o/users%2F66Ea8Ayi5VRpAFC4NQt2vttOF8G2%2Fnotifications%2F1760646708817_cur%20michael.png?alt=media&token=74414980-9e52-4c63-9874-899cb8c5c67e",
+      "createdBy": "66Ea8Ayi5VRpAFC4NQt2vttOF8G2",
+      "type": "admin_message",
+      "fcmTokens": [
+        "c1Kqcg90jLjseQeJsi7idr:APA91bGNbjo5dOH_0e5uRAUFVk25AWCRyh0GPPoqstP6W6dVxjm19RUKhWqd0SLuyOyvcloumJDkzKyJ5WGJELXV39Esrtbuj3bb_g27lN8ZypQzsZNR_fI"
+      ],
+      "createdAt": {
+        "_seconds": 1760646710,
+        "_nanoseconds": 506000000
+      },
+      "errorMessage": "Enviado a 1 dispositivos, 0 fallos",
+      "status": "sent",
+      "updatedAt": {
+        "_seconds": 1760646711,
+        "_nanoseconds": 429000000
+      }
+    },
+    "vb2CLILTddcMKC6Tzp2M": {
+      "title": "holaaa",
+      "clientId": "ahkN50Ie7TRrJZlpt4hE3A5GIbJ2",
+      "clientEmail": "mmaik1987@gmail.com",
+      "clientName": "michael williams",
+      "message": "kljkljkl",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/secretosdebza.firebasestorage.app/o/users%2F66Ea8Ayi5VRpAFC4NQt2vttOF8G2%2Fnotifications%2F1760646809679_cur%20michael.png?alt=media&token=c4a93ac2-e8b2-4b0f-97fc-dbeb4fc9ba65",
+      "createdBy": "66Ea8Ayi5VRpAFC4NQt2vttOF8G2",
+      "type": "admin_message",
+      "fcmTokens": [
+        "c1Kqcg90jLjseQeJsi7idr:APA91bGNbjo5dOH_0e5uRAUFVk25AWCRyh0GPPoqstP6W6dVxjm19RUKhWqd0SLuyOyvcloumJDkzKyJ5WGJELXV39Esrtbuj3bb_g27lN8ZypQzsZNR_fI"
+      ],
+      "createdAt": {
+        "_seconds": 1760646812,
+        "_nanoseconds": 541000000
+      },
+      "errorMessage": "Enviado a 1 dispositivos, 0 fallos",
+      "status": "sent",
+      "updatedAt": {
+        "_seconds": 1760646813,
+        "_nanoseconds": 580000000
+      }
+    },
+    "vprK2QmC87gCRqgeTYQA": {
+      "title": "h;jhlkjhk",
+      "clientId": "ahkN50Ie7TRrJZlpt4hE3A5GIbJ2",
+      "clientEmail": "mmaik1987@gmail.com",
+      "clientName": "michael williams",
+      "message": ",k,kj,.j.kj",
+      "imageUrl": null,
+      "createdBy": "66Ea8Ayi5VRpAFC4NQt2vttOF8G2",
+      "type": "admin_message",
+      "fcmTokens": [
+        "c1Kqcg90jLjseQeJsi7idr:APA91bGNbjo5dOH_0e5uRAUFVk25AWCRyh0GPPoqstP6W6dVxjm19RUKhWqd0SLuyOyvcloumJDkzKyJ5WGJELXV39Esrtbuj3bb_g27lN8ZypQzsZNR_fI"
+      ],
+      "createdAt": {
+        "_seconds": 1760646673,
+        "_nanoseconds": 356000000
+      },
+      "errorMessage": "Enviado a 1 dispositivos, 0 fallos",
+      "status": "sent",
+      "updatedAt": {
+        "_seconds": 1760646674,
+        "_nanoseconds": 559000000
+      }
+    }
+  },
+  "products": {
+    "38ocyo9ifAQYEDzx5buW": {
+      "name": "crema",
+      "description": "una crema alafdlsfd ",
+      "price": 100,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/secretosdebza.firebasestorage.app/o/products%2F1757687625828_fondo.png?alt=media&token=c31a79f0-5b04-4d0d-ba7a-ff125911998b",
+      "stock": 30,
+      "category": "cremas",
+      "active": true
+    },
+    "AyeGbJOx7NsURxFMt6IY": {
+      "name": "crema",
+      "description": "crema facial",
+      "price": 50,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/secretosdebza.firebasestorage.app/o/products%2F1757657117266_logopelu.png?alt=media&token=e3c43d89-bdf6-44aa-bca2-4ba332d47d30",
+      "stock": 10,
+      "category": "cremas",
+      "active": true
+    }
+  },
+  "promotions": {
+    "PlStNuKYkV0dqwK9NcVY": {
+      "title": "nueva",
+      "description": "cbh",
+      "discount": "100",
+      "validUntil": "2025-09-25",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/secretosdebza.firebasestorage.app/o/promotions%2F1757649712280_google_logo.png?alt=media&token=ec45b7a6-62b5-477b-aca4-278ffdf0b167",
+      "tag": "etiwueta"
+    },
+    "eExHQxWymOHbvvSAsljU": {
+      "validUntil": "2025-09-25",
+      "tag": "etiwueta",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/secretosdebza.firebasestorage.app/o/promotions%2F1757649677311_fondo.png?alt=media&token=1b545cde-6183-4156-beb5-ed42f6b1d198",
+      "description": "xvxcvdsfsdf",
+      "discount": "100",
+      "title": "nueva"
+    }
+  },
+  "schedule": {
+    "default": {
+      "monday": {
+        "active": true,
+        "morning": {
+          "start": "08:00",
+          "end": "12:00"
+        },
+        "afternoon": {
+          "start": "14:00",
+          "end": "18:00"
+        },
+        "evening": {
+          "active": false,
+          "start": "19:00",
+          "end": "22:00"
+        }
+      },
+      "tuesday": {
+        "active": true,
+        "morning": {
+          "start": "08:00",
+          "end": "12:00"
+        },
+        "afternoon": {
+          "start": "14:00",
+          "end": "18:00"
+        },
+        "evening": {
+          "active": false,
+          "start": "19:00",
+          "end": "22:00"
+        }
+      },
+      "wednesday": {
+        "active": true,
+        "morning": {
+          "start": "08:00",
+          "end": "12:00"
+        },
+        "afternoon": {
+          "start": "14:00",
+          "end": "18:00"
+        },
+        "evening": {
+          "active": false,
+          "start": "19:00",
+          "end": "22:00"
+        }
+      },
+      "thursday": {
+        "active": true,
+        "morning": {
+          "start": "08:00",
+          "end": "12:00"
+        },
+        "afternoon": {
+          "start": "14:00",
+          "end": "18:00"
+        },
+        "evening": {
+          "active": false,
+          "start": "19:00",
+          "end": "22:00"
+        }
+      },
+      "friday": {
+        "active": true,
+        "morning": {
+          "start": "08:00",
+          "end": "12:00"
+        },
+        "afternoon": {
+          "start": "14:00",
+          "end": "18:00"
+        },
+        "evening": {
+          "active": false,
+          "start": "19:00",
+          "end": "22:00"
+        }
+      },
+      "saturday": {
+        "active": false,
+        "morning": {
+          "start": "08:00",
+          "end": "12:00"
+        },
+        "afternoon": {
+          "active": false,
+          "start": "14:00",
+          "end": "18:00"
+        },
+        "evening": {
+          "active": false,
+          "start": "19:00",
+          "end": "22:00"
+        }
+      },
+      "sunday": {
+        "active": false,
+        "morning": {
+          "start": "08:00",
+          "end": "12:00"
+        },
+        "afternoon": {
+          "active": false,
+          "start": "14:00",
+          "end": "18:00"
+        },
+        "evening": {
+          "active": false,
+          "start": "19:00",
+          "end": "22:00"
+        }
+      }
+    }
+  },
+  "settings": {
+    "business": {
+      "businessHours": {
+        "from": "08:00",
+        "to": "21:00"
+      },
+      "slotDuration": 30,
+      "advanceDays": 30,
+      "nonWorkingDays": [
+        0
+      ]
+    },
+    "contact": {
+      "phone": "+542974176615",
+      "email": "mmaik1987@gmail.com",
+      "address": "perito moren 765",
+      "schedule": "08:00 a 17:00",
+      "instagram": "",
+      "facebook": "",
+      "whatsapp": ""
+    }
+  },
+  "treatments": {
+    "2lrEX2y5X6lIbF5QvS5a": {
+      "name": "Microblading - Párpados",
+      "description": "Técnica semipermanente para diseño de cejas, labios o párpados con efecto natural.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Microblading",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757722041,
+        "_nanoseconds": 543000000
+      }
+    },
+    "4rJUnWMdcFGuIN61y78e": {
+      "name": "Pestañas - Permanentes",
+      "description": "Realce estético de las pestañas: lifting, extensiones o permanentes para una mirada más definida.",
+      "zone": "Pestañas",
+      "createdAt": {
+        "_seconds": 1757712603,
+        "_nanoseconds": 776000000
+      },
+      "duration": 30,
+      "image": "https://firebasestorage.googleapis.com/v0/b/secretosdebza.firebasestorage.app/o/treatments%2F1757714004300_pestanas.png?alt=media&token=eb0b4704-dcbc-4b26-92ce-f841282b6161",
+      "price": 20,
+      "id": "4rJUnWMdcFGuIN61y78e"
+    },
+    "4s1euK869xXi4O284ptc": {
+      "name": "Depilación con cera - Perfilado de cejas",
+      "description": "Método de depilación tradicional que elimina el vello desde la raíz, dejando la piel suave por más tiempo.",
+      "zone": "Depilación con cera",
+      "createdAt": {
+        "_seconds": 1757712598,
+        "_nanoseconds": 236000000
+      },
+      "duration": 30,
+      "image": "https://firebasestorage.googleapis.com/v0/b/secretosdebza.firebasestorage.app/o/treatments%2F1757714056430_depilacion.png?alt=media&token=67079136-219c-48ce-b5f2-f12a568759db",
+      "price": 1,
+      "id": "4s1euK869xXi4O284ptc"
+    },
+    "4vCZOyiYR1jObLaPRF43": {
+      "name": "Criolipolisis - Promo 3 zonas",
+      "description": "Técnica de reducción localizada de grasa mediante frío controlado, sin cirugía.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Criolipolisis",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757722031,
+        "_nanoseconds": 560000000
+      }
+    },
+    "9FCjYClkRPKUm49LqkpW": {
+      "name": "Microblading - Párpados",
+      "description": "Técnica semipermanente para diseño de cejas, labios o párpados con efecto natural.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Microblading",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757712610,
+        "_nanoseconds": 595000000
+      }
+    },
+    "9UurQOGIQuUBVbqYs7ZJ": {
+      "name": "Depilación con cera - Cavado",
+      "description": "Método de depilación tradicional que elimina el vello desde la raíz, dejando la piel suave por más tiempo.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Depilación con cera",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757712596,
+        "_nanoseconds": 153000000
+      }
+    },
+    "AH4Zb6lvTX3c0YmvDoju": {
+      "name": "Masaje",
+      "description": "Masaje relajante o descontracturante para aliviar tensión muscular y mejorar la circulación.",
+      "zone": "Masaje",
+      "createdAt": {
+        "_seconds": 1757712602,
+        "_nanoseconds": 262000000
+      },
+      "duration": 30,
+      "image": "https://firebasestorage.googleapis.com/v0/b/secretosdebza.firebasestorage.app/o/treatments%2F1757714091380_masaje%20corporal.png?alt=media&token=2ba71543-dac5-4da6-80f7-f49f20f86dae",
+      "price": 1,
+      "id": "AH4Zb6lvTX3c0YmvDoju"
+    },
+    "ASC69iA6pemkkdeqWaMV": {
+      "name": "Depilación con cera - Pierna Entera",
+      "description": "Método de depilación tradicional que elimina el vello desde la raíz, dejando la piel suave por más tiempo.",
+      "zone": "Depilación con cera",
+      "createdAt": {
+        "_seconds": 1757712597,
+        "_nanoseconds": 138000000
+      },
+      "duration": 30,
+      "image": "https://firebasestorage.googleapis.com/v0/b/secretosdebza.firebasestorage.app/o/treatments%2F1757714139413_depilacion.png?alt=media&token=df039652-dec4-4b10-8e87-ee5f2997e22e",
+      "price": 1,
+      "id": "ASC69iA6pemkkdeqWaMV"
+    },
+    "AUmHDepE1PSG4FlKm2rK": {
+      "name": "Tratamiento Corporal - Flacidez",
+      "description": "Tratamientos que ayudan a reducir celulitis, flacidez y mejorar la tonicidad corporal.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Tratamiento Corporal",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757722039,
+        "_nanoseconds": 317000000
+      }
+    },
+    "Bhe1sRnald8H4ABxqFQs": {
+      "name": "Pestañas - Permanentes",
+      "description": "Realce estético de las pestañas: lifting, extensiones o permanentes para una mirada más definida.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Pestañas",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757722034,
+        "_nanoseconds": 531000000
+      }
+    },
+    "CHsxhKI4URtaghRxQkuN": {
+      "name": "Criolipolisis - Abdomen y flancos",
+      "description": "Técnica de reducción localizada de grasa mediante frío controlado, sin cirugía.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Criolipolisis",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757722029,
+        "_nanoseconds": 367000000
+      }
+    },
+    "DAI4VAigGCz2jLBjfxVa": {
+      "name": "Criolipolisis - Aductores",
+      "description": "Técnica de reducción localizada de grasa mediante frío controlado, sin cirugía.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Criolipolisis",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757722028,
+        "_nanoseconds": 749000000
+      }
+    },
+    "Dz1K9RnvwJyD25SCDbZx": {
+      "name": "Criolipolisis - Promo 3 zonas",
+      "description": "Técnica de reducción localizada de grasa mediante frío controlado, sin cirugía.",
+      "zone": "Criolipolisis",
+      "createdAt": {
+        "_seconds": 1757712601,
+        "_nanoseconds": 308000000
+      },
+      "duration": 30,
+      "image": "https://firebasestorage.googleapis.com/v0/b/secretosdebza.firebasestorage.app/o/treatments%2F1757714173123_criopolisis.png?alt=media&token=479c8935-3faf-41b0-b1be-1e76629a53b7",
+      "price": 1,
+      "id": "Dz1K9RnvwJyD25SCDbZx"
+    },
+    "GIv6ZVop9tdV4Lmc1qAX": {
+      "name": "Tratamiento Corporal - Flacidez",
+      "description": "Tratamientos que ayudan a reducir celulitis, flacidez y mejorar la tonicidad corporal.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Tratamiento Corporal",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757712608,
+        "_nanoseconds": 409000000
+      }
+    },
+    "H3OkHhg1iWKCxczAZVRZ": {
+      "name": "Criolipolisis - Brazos",
+      "description": "Técnica de reducción localizada de grasa mediante frío controlado, sin cirugía.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Criolipolisis",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757722029,
+        "_nanoseconds": 867000000
+      }
+    },
+    "Jg8M1Eg0JhmS92bBFDzo": {
+      "name": "Tratamiento Facial - Dermaplaning",
+      "description": "Tratamientos para mejorar la piel del rostro: antiacné, antiage, limpieza profunda, dermapen, etc.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Tratamiento Facial",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757722036,
+        "_nanoseconds": 593000000
+      }
+    },
+    "JicAPs7DNWm4PiL0yIrv": {
+      "name": "Tratamiento Facial - Higiene",
+      "description": "Tratamientos para mejorar la piel del rostro: antiacné, antiage, limpieza profunda, dermapen, etc.",
+      "zone": "Tratamiento Facial",
+      "createdAt": {
+        "_seconds": 1757712606,
+        "_nanoseconds": 468000000
+      },
+      "duration": 30,
+      "image": "https://firebasestorage.googleapis.com/v0/b/secretosdebza.firebasestorage.app/o/treatments%2F1757714205805_tratamiento%20facial.png?alt=media&token=19ccdea9-7e45-47bd-bdb5-305b62deebee",
+      "price": 1,
+      "id": "JicAPs7DNWm4PiL0yIrv"
+    },
+    "JoXu3if4vHh2GJXkvKh0": {
+      "name": "Tratamiento Facial - Antiage",
+      "description": "Tratamientos para mejorar la piel del rostro: antiacné, antiage, limpieza profunda, dermapen, etc.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Tratamiento Facial",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757712604,
+        "_nanoseconds": 884000000
+      }
+    },
+    "L7Z0pMbDX5WAWBl8QFOO": {
+      "name": "Depilación con cera - Axilas",
+      "description": "Método de depilación tradicional que elimina el vello desde la raíz, dejando la piel suave por más tiempo.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Depilación con cera",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757712595,
+        "_nanoseconds": 846000000
+      }
+    },
+    "LVyqJ7B4xL0QZzeMbpkm": {
+      "name": "Microblading - Labios",
+      "description": "Técnica semipermanente para diseño de cejas, labios o párpados con efecto natural.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Microblading",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757722040,
+        "_nanoseconds": 872000000
+      }
+    },
+    "NqosF2CPG9Rktpgz1NnZ": {
+      "name": "Tratamiento Facial - Acné",
+      "description": "Tratamientos para mejorar la piel del rostro: antiacné, antiage, limpieza profunda, dermapen, etc.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Tratamiento Facial",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757712604,
+        "_nanoseconds": 385000000
+      }
+    },
+    "NzmHGLch2KbOk3qebbia": {
+      "name": "Criolipolisis - Aductores",
+      "description": "Técnica de reducción localizada de grasa mediante frío controlado, sin cirugía.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Criolipolisis",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757712598,
+        "_nanoseconds": 910000000
+      }
+    },
+    "O5mCjdIQdSpWjTlDSmJP": {
+      "name": "Depilación con cera - Perfilado de cejas",
+      "description": "Método de depilación tradicional que elimina el vello desde la raíz, dejando la piel suave por más tiempo.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Depilación con cera",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757722028,
+        "_nanoseconds": 320000000
+      }
+    },
+    "OXurzNdNS9ObKcVbRa6U": {
+      "name": "Microblading - Cejas",
+      "description": "Técnica semipermanente para diseño de cejas, labios o párpados con efecto natural.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Microblading",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757722040,
+        "_nanoseconds": 510000000
+      }
+    },
+    "OaFQjZPxm7Ff9wsFFmxm": {
+      "name": "Criolipolisis - Brazos",
+      "description": "Técnica de reducción localizada de grasa mediante frío controlado, sin cirugía.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Criolipolisis",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757712599,
+        "_nanoseconds": 853000000
+      }
+    },
+    "PeFWbPxSCVnt7HybxfTC": {
+      "name": "Criolipolisis - Bajo corpiño",
+      "description": "Técnica de reducción localizada de grasa mediante frío controlado, sin cirugía.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Criolipolisis",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757712600,
+        "_nanoseconds": 261000000
+      }
+    },
+    "Q0IeENMaciCBS3XMVLaI": {
+      "name": "Depilación con cera - Cavado",
+      "description": "Método de depilación tradicional que elimina el vello desde la raíz, dejando la piel suave por más tiempo.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Depilación con cera",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757722025,
+        "_nanoseconds": 945000000
+      }
+    },
+    "QucD1NGI5QHq4rhq0DHl": {
+      "name": "Tratamiento Facial - Dermaplaning",
+      "description": "Tratamientos para mejorar la piel del rostro: antiacné, antiage, limpieza profunda, dermapen, etc.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Tratamiento Facial",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757712605,
+        "_nanoseconds": 810000000
+      }
+    },
+    "RJjT4ENhWx3sX0hxnGUL": {
+      "name": "Pestañas - Lifting",
+      "description": "Realce estético de las pestañas: lifting, extensiones o permanentes para una mirada más definida.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Pestañas",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757722033,
+        "_nanoseconds": 861000000
+      }
+    },
+    "RZK8O4veu62HnPRj5Hvg": {
+      "name": "Tratamiento Corporal - Electroestimulación",
+      "description": "Tratamientos que ayudan a reducir celulitis, flacidez y mejorar la tonicidad corporal.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Tratamiento Corporal",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757722038,
+        "_nanoseconds": 594000000
+      }
+    },
+    "TGYjYbq5x7IIRG2HEtAT": {
+      "name": "Depilación con cera - Rostro Completo",
+      "description": "Método de depilación tradicional que elimina el vello desde la raíz, dejando la piel suave por más tiempo.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Depilación con cera",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757712597,
+        "_nanoseconds": 938000000
+      }
+    },
+    "Ts7w2R3z2yLNf87BH9il": {
+      "name": "Tratamiento Corporal - Celulitis",
+      "description": "Tratamientos que ayudan a reducir celulitis, flacidez y mejorar la tonicidad corporal.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Tratamiento Corporal",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757722038,
+        "_nanoseconds": 130000000
+      }
+    },
+    "V673Tu6LfxdF7hZ85y0Q": {
+      "name": "Criolipolisis - Bajo corpiño",
+      "description": "Técnica de reducción localizada de grasa mediante frío controlado, sin cirugía.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Criolipolisis",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757722030,
+        "_nanoseconds": 510000000
+      }
+    },
+    "WAcYErzaQ0PhiOzHEUuF": {
+      "name": "Masaje",
+      "description": "Masaje relajante o descontracturante para aliviar tensión muscular y mejorar la circulación.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Masaje",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757722032,
+        "_nanoseconds": 583000000
+      }
+    },
+    "WP5uRRXIZsWwMwa1EPUY": {
+      "name": "Evaluación Completa",
+      "duration": 60,
+      "price": 50,
+      "id": "WP5uRRXIZsWwMwa1EPUY"
+    },
+    "XPMmvJVeBkTs3EkrjQo4": {
+      "name": "Depilación con cera - Media Pierna",
+      "description": "Método de depilación tradicional que elimina el vello desde la raíz, dejando la piel suave por más tiempo.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Depilación con cera",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757722026,
+        "_nanoseconds": 935000000
+      }
+    },
+    "YI3pkT8nULLyzlr3vFzS": {
+      "name": "Tratamiento Facial - Dermapen",
+      "description": "Tratamientos para mejorar la piel del rostro: antiacné, antiage, limpieza profunda, dermapen, etc.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Tratamiento Facial",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757722036,
+        "_nanoseconds": 43000000
+      }
+    },
+    "ZSVUjhCnOvfmpULKVzRB": {
+      "name": "Tratamiento Facial - Reafirmante",
+      "description": "Tratamientos para mejorar la piel del rostro: antiacné, antiage, limpieza profunda, dermapen, etc.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Tratamiento Facial",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757712606,
+        "_nanoseconds": 833000000
+      }
+    },
+    "a7x8j9oRGkDrVsYj25ia": {
+      "name": "Microblading - Cejas",
+      "description": "Técnica semipermanente para diseño de cejas, labios o párpados con efecto natural.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Microblading",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757712609,
+        "_nanoseconds": 455000000
+      }
+    },
+    "ag3HxuE1uVPNT1oMvSoY": {
+      "name": "Criolipolisis - Abdomen y flancos",
+      "description": "Técnica de reducción localizada de grasa mediante frío controlado, sin cirugía.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Criolipolisis",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757712599,
+        "_nanoseconds": 309000000
+      }
+    },
+    "bsOc4GTtRPGAk5ALuRCZ": {
+      "name": "Criolipolisis - Pantalón de montar",
+      "description": "Técnica de reducción localizada de grasa mediante frío controlado, sin cirugía.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Criolipolisis",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757712600,
+        "_nanoseconds": 771000000
+      }
+    },
+    "de9vNJBIIPfMfVvj716L": {
+      "name": "Depilación con cera - Pierna Entera",
+      "description": "Método de depilación tradicional que elimina el vello desde la raíz, dejando la piel suave por más tiempo.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Depilación con cera",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757722027,
+        "_nanoseconds": 316000000
+      }
+    },
+    "eDBlEWddikmcBnDPDlor": {
+      "name": "Depilación con cera - Media Pierna",
+      "description": "Método de depilación tradicional que elimina el vello desde la raíz, dejando la piel suave por más tiempo.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Depilación con cera",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757712596,
+        "_nanoseconds": 821000000
+      }
+    },
+    "fA7RgUTYq4pZR54pzkEV": {
+      "name": "Tratamiento Facial - Acné",
+      "description": "Tratamientos para mejorar la piel del rostro: antiacné, antiage, limpieza profunda, dermapen, etc.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Tratamiento Facial",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757722034,
+        "_nanoseconds": 975000000
+      }
+    },
+    "gttw9qo3Me8SJ7Q00auy": {
+      "name": "Pestañas - Extensiones pelo por pelo",
+      "description": "Realce estético de las pestañas: lifting, extensiones o permanentes para una mirada más definida.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Pestañas",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757712602,
+        "_nanoseconds": 715000000
+      }
+    },
+    "j6D7S6ofDxxAgKgYFk6w": {
+      "name": "Fisioterapia",
+      "duration": 45,
+      "price": 50,
+      "id": "j6D7S6ofDxxAgKgYFk6w"
+    },
+    "jaBrqM7EfZVYTpAqP1gn": {
+      "name": "Tratamiento Capilar",
+      "description": "Terapias capilares para fortalecer el cabello, mejorar la caída y nutrir el cuero cabelludo.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Tratamiento Capilar",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757712608,
+        "_nanoseconds": 981000000
+      }
+    },
+    "lOWpPhIkwCz9GijJk5yc": {
+      "name": "Criolipolisis - Pantalón de montar",
+      "description": "Técnica de reducción localizada de grasa mediante frío controlado, sin cirugía.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Criolipolisis",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757722030,
+        "_nanoseconds": 940000000
+      }
+    },
+    "m36DUY7wHZzUs46UjbHk": {
+      "name": "Tratamiento Corporal - Electroestimulación",
+      "description": "Tratamientos que ayudan a reducir celulitis, flacidez y mejorar la tonicidad corporal.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Tratamiento Corporal",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757712607,
+        "_nanoseconds": 894000000
+      }
+    },
+    "my14GWvzmd8ddKAWbMxT": {
+      "name": "Tratamiento Facial - Dermapen",
+      "description": "Tratamientos para mejorar la piel del rostro: antiacné, antiage, limpieza profunda, dermapen, etc.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Tratamiento Facial",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757712605,
+        "_nanoseconds": 527000000
+      }
+    },
+    "myo9LNqfSfF5IxMzi5x3": {
+      "name": "Microblading - Labios",
+      "description": "Técnica semipermanente para diseño de cejas, labios o párpados con efecto natural.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Microblading",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757712609,
+        "_nanoseconds": 925000000
+      }
+    },
+    "pfnG497hsVVQxsC3laWK": {
+      "name": "Depilación con cera - Rostro Completo",
+      "description": "Método de depilación tradicional que elimina el vello desde la raíz, dejando la piel suave por más tiempo.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Depilación con cera",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757722027,
+        "_nanoseconds": 644000000
+      }
+    },
+    "qjxjWL1c6KTwOagLciIp": {
+      "name": "Pestañas - Lifting",
+      "description": "Realce estético de las pestañas: lifting, extensiones o permanentes para una mirada más definida.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Pestañas",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757712603,
+        "_nanoseconds": 322000000
+      }
+    },
+    "rxI5rWbLBZt401sMl1rV": {
+      "name": "Drenaje linfático",
+      "description": "Masaje específico que estimula la circulación linfática, reduciendo retención de líquidos y toxinas.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Drenaje linfático",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757722032,
+        "_nanoseconds": 98000000
+      }
+    },
+    "u4jMsw1US2D0IXico3bM": {
+      "name": "Pestañas - Extensiones pelo por pelo",
+      "description": "Realce estético de las pestañas: lifting, extensiones o permanentes para una mirada más definida.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Pestañas",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757722033,
+        "_nanoseconds": 270000000
+      }
+    },
+    "uGs4OBBo16FZiRYPS3S2": {
+      "name": "Drenaje linfático",
+      "description": "Masaje específico que estimula la circulación linfática, reduciendo retención de líquidos y toxinas.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Drenaje linfático",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757712601,
+        "_nanoseconds": 672000000
+      }
+    },
+    "uUatI3MBjGw13pegTU18": {
+      "name": "Tratamiento Facial - Higiene",
+      "description": "Tratamientos para mejorar la piel del rostro: antiacné, antiage, limpieza profunda, dermapen, etc.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Tratamiento Facial",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757722037,
+        "_nanoseconds": 174000000
+      }
+    },
+    "vIubOpbVTkW32oXIprgo": {
+      "name": "Tratamiento Facial - Antiage",
+      "description": "Tratamientos para mejorar la piel del rostro: antiacné, antiage, limpieza profunda, dermapen, etc.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Tratamiento Facial",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757722035,
+        "_nanoseconds": 586000000
+      }
+    },
+    "w39TXR4xGVnhZkGgZjae": {
+      "name": "Depilación con cera - Axilas",
+      "description": "Método de depilación tradicional que elimina el vello desde la raíz, dejando la piel suave por más tiempo.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Depilación con cera",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757722025,
+        "_nanoseconds": 675000000
+      }
+    },
+    "w4mEZ7Cuvx6IiQqNcMjK": {
+      "name": "Tratamiento Capilar",
+      "description": "Terapias capilares para fortalecer el cabello, mejorar la caída y nutrir el cuero cabelludo.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Tratamiento Capilar",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757722039,
+        "_nanoseconds": 758000000
+      }
+    },
+    "wgWMswy9a0FEoyAGiz9O": {
+      "name": "Tratamiento Facial - Reafirmante",
+      "description": "Tratamientos para mejorar la piel del rostro: antiacné, antiage, limpieza profunda, dermapen, etc.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Tratamiento Facial",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757722037,
+        "_nanoseconds": 637000000
+      }
+    },
+    "y5MHna0qNqJHa1GqRjBB": {
+      "name": "Tratamiento Corporal - Celulitis",
+      "description": "Tratamientos que ayudan a reducir celulitis, flacidez y mejorar la tonicidad corporal.",
+      "price": 0,
+      "duration": 0,
+      "zone": "Tratamiento Corporal",
+      "image": "",
+      "createdAt": {
+        "_seconds": 1757712607,
+        "_nanoseconds": 491000000
+      }
+    }
+  },
+  "unavailableTimes": {
+    "AnXThsBWkvHrcrc4Ahz0": {
+      "type": "time",
+      "date": "2025-09-15",
+      "time": "08:00",
+      "createdAt": {
+        "_seconds": 1757363352,
+        "_nanoseconds": 920000000
+      }
+    },
+    "Di3kM2omeS53Lmmli19S": {
+      "type": "date",
+      "date": "2025-09-22",
+      "createdAt": {
+        "_seconds": 1757733769,
+        "_nanoseconds": 186000000
+      }
+    },
+    "KVAEmiwQmI6SjDfbo0IQ": {
+      "type": "time",
+      "date": "2025-09-15",
+      "time": "08:30",
+      "createdAt": {
+        "_seconds": 1757363363,
+        "_nanoseconds": 361000000
+      }
+    },
+    "LRzKGA0ynJxhqhb7HxUd": {
+      "createdAt": {
+        "_seconds": 1757361408,
+        "_nanoseconds": 724000000
+      },
+      "type": "date",
+      "date": "2025-09-13"
+    },
+    "O34xMcbUU9PVal7Lf5T0": {
+      "date": "2025-09-11",
+      "type": "date"
+    },
+    "cmWWrmcETMNglMilqufg": {
+      "createdAt": {
+        "_seconds": 1757361396,
+        "_nanoseconds": 656000000
+      },
+      "type": "date",
+      "date": "2025-09-12"
+    },
+    "f6BApTGu5aQmB2OLP7yA": {
+      "type": "date",
+      "date": "2025-09-18",
+      "createdAt": {
+        "_seconds": 1757467122,
+        "_nanoseconds": 899000000
+      }
+    },
+    "i4VTxpGnYUXsgmoX7ek3": {
+      "type": "date",
+      "date": "2025-09-10",
+      "createdAt": {
+        "_seconds": 1757368084,
+        "_nanoseconds": 42000000
+      }
+    }
+  },
+  "users": {
+    "66Ea8Ayi5VRpAFC4NQt2vttOF8G2": {
+      "email": "kawazulu.intel01@gmail.com",
+      "displayName": "Michael",
+      "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocLOvwQ6CBb9_8ripetebjUcldPSBl4t3aDN7gCfBXQRF3njBg=s96-c",
+      "notifications": true,
+      "name": "Michael",
+      "lastname": "",
+      "createdAt": {
+        "_seconds": 1760645890,
+        "_nanoseconds": 850000000
+      }
+    },
+    "ahkN50Ie7TRrJZlpt4hE3A5GIbJ2": {
+      "email": "mmaik1987@gmail.com",
+      "displayName": "michael williams martinez",
+      "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocIagYVKNzcpcqaftKVbjiip_GOWoNKrnBQnweoshrIWzPi31aJV=s96-c",
+      "notifications": true,
+      "name": "michael",
+      "lastname": "williams",
+      "createdAt": {
+        "_seconds": 1760645866,
+        "_nanoseconds": 301000000
+      },
+      "notificationsEnabled": true,
+      "updatedAt": {
+        "_seconds": 1760646084,
+        "_nanoseconds": 558000000
+      },
+      "_subcollections": {
+        "fcmTokens": {
+          "1xfRFVCnD1DM5EGpFia5": {
+            "token": "c1Kqcg90jLjseQeJsi7idr:APA91bGNbjo5dOH_0e5uRAUFVk25AWCRyh0GPPoqstP6W6dVxjm19RUKhWqd0SLuyOyvcloumJDkzKyJ5WGJELXV39Esrtbuj3bb_g27lN8ZypQzsZNR_fI",
+            "device": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
+            "createdAt": {
+              "_seconds": 1760646085,
+              "_nanoseconds": 382000000
+            },
+            "updatedAt": {
+              "_seconds": 1760646085,
+              "_nanoseconds": 382000000
+            }
+          }
+        }
+      }
+    }
+  },
+  "vipMemberships": {
+    "tP7IjjYwkFFoRehXcXTO": {
+      "name": "VIP Esencial",
+      "description": "Acceso inicial al Club VIP, pensado para quienes quieren comenzar a disfrutar beneficios exclusivos.",
+      "features": [
+        "10% de descuento en todos los tratamientos",
+        "1 sesión de diagnóstico gratuito al mes",
+        "Acceso prioritario a promociones especiales"
+      ],
+      "duration": "1 mes",
+      "active": true,
+      "recommended": false,
+      "createdAt": {
+        "_seconds": 1757715666,
+        "_nanoseconds": 140000000
+      },
+      "price": 50
+    },
+    "taPXmkSRpH9da1DJpjeb": {
+      "name": "VIP Elite",
+      "price": 90000,
+      "description": "La experiencia definitiva para quienes buscan un nivel exclusivo de atención y beneficios premium.",
+      "features": [
+        "30% de descuento en todos los tratamientos",
+        "Diagnóstico y seguimiento personalizado ilimitado",
+        "Turnos preferenciales en cualquier horario",
+        "2 servicios premium de cortesía por mes",
+        "Regalo sorpresa exclusivo cada temporada"
+      ],
+      "duration": "12 meses",
+      "active": true,
+      "recommended": false,
+      "createdAt": {
+        "_seconds": 1757715667,
+        "_nanoseconds": 179000000
+      }
+    },
+    "xcBiSuVoYmLgXvOjRKab": {
+      "name": "VIP Premium",
+      "price": 35000,
+      "description": "El plan más elegido: combina ahorro, beneficios y flexibilidad para que disfrutes al máximo.",
+      "features": [
+        "20% de descuento en todos los tratamientos",
+        "2 diagnósticos gratuitos al mes",
+        "Acceso anticipado a nuevas promociones",
+        "1 servicio facial express de cortesía"
+      ],
+      "duration": "3 meses",
+      "active": true,
+      "recommended": true,
+      "createdAt": {
+        "_seconds": 1757715666,
+        "_nanoseconds": 516000000
+      }
+    }
+  },
+  "vipSubscriptions": {
+    "ArCJzXGnJJz0D2Fj5g0t": {
+      "userId": "RpRTFyWFJ1bHALhMD9BxPu7EknZ2",
+      "membershipId": "taPXmkSRpH9da1DJpjeb",
+      "membershipName": "VIP Elite",
+      "startDate": "2025-09-13T03:54:04.808Z",
+      "endDate": "2026-09-13T03:54:04.808Z",
+      "status": "active",
+      "paymentStatus": "paid",
+      "createdAt": {
+        "_seconds": 1757735645,
+        "_nanoseconds": 886000000
+      }
+    },
+    "qM5SVczatvHJ0prJcN06": {
+      "userId": "RpRTFyWFJ1bHALhMD9BxPu7EknZ2",
+      "membershipId": "tP7IjjYwkFFoRehXcXTO",
+      "membershipName": "VIP Esencial",
+      "startDate": "2025-09-14T02:01:03.046Z",
+      "endDate": "2025-10-14T02:01:03.046Z",
+      "status": "active",
+      "paymentStatus": "paid",
+      "paymentId": "126120011732",
+      "createdAt": {
+        "_seconds": 1757815264,
+        "_nanoseconds": 168000000
+      }
+    },
+    "sep9Ii6UsVI0GzZUcPT7": {
+      "userId": "RpRTFyWFJ1bHALhMD9BxPu7EknZ2",
+      "membershipId": "tP7IjjYwkFFoRehXcXTO",
+      "membershipName": "VIP Esencial",
+      "startDate": "2025-09-13T03:53:38.927Z",
+      "endDate": "2025-10-13T03:53:38.927Z",
+      "status": "active",
+      "paymentStatus": "paid",
+      "createdAt": {
+        "_seconds": 1757735621,
+        "_nanoseconds": 110000000
+      }
+    }
+  }
+}

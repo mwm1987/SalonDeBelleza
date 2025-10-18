@@ -1,0 +1,368 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Colores base light theme */
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+
+    /* Colores AppyPie para light theme */
+    --primary: 159 41% 60%; /* #77C790 */
+    --primary-foreground: 210 40% 98%;
+
+    --secondary: 159 52% 42%; /* #47916A */
+    --secondary-foreground: 210 40% 98%;
+
+    --muted: 159 54% 34%; /* #347854 */
+    --muted-foreground: 210 40% 98%;
+
+    --accent: 159 50% 25%; /* #295746 */
+    --accent-foreground: 210 40% 98%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 159 41% 60%;
+
+    --radius: 0.5rem;
+
+    /* Sidebar colors para light theme */
+    --sidebar-background: 159 41% 95%; /* Light tint de #77C790 */
+    --sidebar-foreground: 159 50% 25%; /* #295746 */
+    --sidebar-primary: 159 41% 60%; /* #77C790 */
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 159 41% 90%; /* Lighter tint */
+    --sidebar-accent-foreground: 159 50% 25%;
+    --sidebar-border: 159 30% 85%;
+    --sidebar-ring: 159 41% 60%;
+
+    /* Variables personalizadas AppyPie */
+    --appypie-light: 159 41% 60%; /* #77C790 */
+    --appypie-medium: 159 52% 42%; /* #47916A */
+    --appypie-dark: 159 54% 34%; /* #347854 */
+    --appypie-darker: 159 50% 25%; /* #295746 */
+  }
+
+  .dark {
+    /* Colores base dark theme */
+    --background: 159 50% 8%; /* Very dark green base */
+    --foreground: 159 30% 95%;
+
+    --card: 159 50% 10%;
+    --card-foreground: 159 30% 95%;
+
+    --popover: 159 50% 10%;
+    --popover-foreground: 159 30% 95%;
+
+    /* Colores AppyPie adaptados para dark theme */
+    --primary: 159 41% 55%; /* #77C790 ligeramente más oscuro */
+    --primary-foreground: 159 50% 8%;
+
+    --secondary: 159 52% 37%; /* #47916A más oscuro */
+    --secondary-foreground: 159 30% 95%;
+
+    --muted: 159 54% 29%; /* #347854 más oscuro */
+    --muted-foreground: 159 30% 95%;
+
+    --accent: 159 50% 20%; /* #295746 más oscuro */
+    --accent-foreground: 159 30% 95%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 159 30% 20%;
+    --input: 159 30% 20%;
+    --ring: 159 41% 55%;
+
+    /* Sidebar colors para dark theme */
+    --sidebar-background: 159 50% 6%; /* Very dark green */
+    --sidebar-foreground: 159 30% 90%;
+    --sidebar-primary: 159 41% 55%; /* #77C790 adaptado */
+    --sidebar-primary-foreground: 159 50% 8%;
+    --sidebar-accent: 159 40% 12%;
+    --sidebar-accent-foreground: 159 30% 90%;
+    --sidebar-border: 159 30% 15%;
+    --sidebar-ring: 159 41% 55%;
+
+    /* Variables personalizadas AppyPie para dark */
+    --appypie-light: 159 41% 55%; /* #77C790 más suave */
+    --appypie-medium: 159 52% 37%; /* #47916A más oscuro */
+    --appypie-dark: 159 54% 29%; /* #347854 más oscuro */
+    --appypie-darker: 159 50% 20%; /* #295746 más oscuro */
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground transition-colors duration-300;
+  }
+}
+
+@layer components {
+  /* Utilidades para usar los colores AppyPie */
+  .bg-appypie-light {
+    background-color: hsl(var(--appypie-light));
+  }
+
+  .bg-appypie-medium {
+    background-color: hsl(var(--appypie-medium));
+  }
+
+  .bg-appypie-dark {
+    background-color: hsl(var(--appypie-dark));
+  }
+
+  .bg-appypie-darker {
+    background-color: hsl(var(--appypie-darker));
+  }
+
+  .text-appypie-light {
+    color: hsl(var(--appypie-light));
+  }
+
+  .text-appypie-medium {
+    color: hsl(var(--appypie-medium));
+  }
+
+  .text-appypie-dark {
+    color: hsl(var(--appypie-dark));
+  }
+
+  .text-appypie-darker {
+    color: hsl(var(--appypie-darker));
+  }
+
+  .border-appypie-light {
+    border-color: hsl(var(--appypie-light));
+  }
+
+  .border-appypie-medium {
+    border-color: hsl(var(--appypie-medium));
+  }
+
+  .border-appypie-dark {
+    border-color: hsl(var(--appypie-dark));
+  }
+
+  .border-appypie-darker {
+    border-color: hsl(var(--appypie-darker));
+  }
+
+  /* Variaciones con opacidad específicas */
+  .bg-appypie-light-10 {
+    background-color: hsl(var(--appypie-light) / 0.1);
+  }
+
+  .bg-appypie-light-20 {
+    background-color: hsl(var(--appypie-light) / 0.2);
+  }
+
+  .bg-appypie-medium-10 {
+    background-color: hsl(var(--appypie-medium) / 0.1);
+  }
+
+  .bg-appypie-medium-20 {
+    background-color: hsl(var(--appypie-medium) / 0.2);
+  }
+
+  .border-appypie-light-30 {
+    border-color: hsl(var(--appypie-light) / 0.3);
+  }
+
+  .border-appypie-medium-30 {
+    border-color: hsl(var(--appypie-medium) / 0.3);
+  }
+
+  .hover-bg-appypie-light-10:hover {
+    background-color: hsl(var(--appypie-light) / 0.1);
+  }
+
+  .hover-bg-appypie-medium-10:hover {
+    background-color: hsl(var(--appypie-medium) / 0.1);
+  }
+
+  /* Gradientes con from/to para compatibilidad con Tailwind */
+  .from-appypie-light {
+    --tw-gradient-from: hsl(var(--appypie-light)) var(--tw-gradient-from-position);
+    --tw-gradient-to: hsl(var(--appypie-light) / 0) var(--tw-gradient-to-position);
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
+  }
+
+  .from-appypie-medium {
+    --tw-gradient-from: hsl(var(--appypie-medium)) var(--tw-gradient-from-position);
+    --tw-gradient-to: hsl(var(--appypie-medium) / 0) var(--tw-gradient-to-position);
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
+  }
+
+  .from-appypie-dark {
+    --tw-gradient-from: hsl(var(--appypie-dark)) var(--tw-gradient-from-position);
+    --tw-gradient-to: hsl(var(--appypie-dark) / 0) var(--tw-gradient-to-position);
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
+  }
+
+  .from-appypie-darker {
+    --tw-gradient-from: hsl(var(--appypie-darker)) var(--tw-gradient-from-position);
+    --tw-gradient-to: hsl(var(--appypie-darker) / 0) var(--tw-gradient-to-position);
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
+  }
+
+  .to-appypie-light {
+    --tw-gradient-to: hsl(var(--appypie-light)) var(--tw-gradient-to-position);
+  }
+
+  .to-appypie-medium {
+    --tw-gradient-to: hsl(var(--appypie-medium)) var(--tw-gradient-to-position);
+  }
+
+  .to-appypie-dark {
+    --tw-gradient-to: hsl(var(--appypie-dark)) var(--tw-gradient-to-position);
+  }
+
+  .to-appypie-darker {
+    --tw-gradient-to: hsl(var(--appypie-darker)) var(--tw-gradient-to-position);
+  }
+
+  /* Gradientes predefinidos AppyPie */
+  .bg-gradient-appypie-light {
+    background: linear-gradient(135deg, hsl(var(--appypie-light)), hsl(var(--appypie-medium)));
+  }
+
+  .bg-gradient-appypie-medium {
+    background: linear-gradient(135deg, hsl(var(--appypie-medium)), hsl(var(--appypie-dark)));
+  }
+
+  .bg-gradient-appypie-dark {
+    background: linear-gradient(135deg, hsl(var(--appypie-dark)), hsl(var(--appypie-darker)));
+  }
+
+  .bg-gradient-appypie-full {
+    background: linear-gradient(135deg, 
+      hsl(var(--appypie-light)), 
+      hsl(var(--appypie-medium)), 
+      hsl(var(--appypie-dark)), 
+      hsl(var(--appypie-darker))
+    );
+  }
+
+  /* Efectos especiales para navbar */
+  .navbar-gradient-light {
+    background: linear-gradient(180deg, 
+      hsl(var(--appypie-light) / 0.95) 0%, 
+      hsl(var(--appypie-medium) / 0.95) 25%, 
+      hsl(var(--appypie-dark) / 0.95) 50%, 
+      hsl(var(--appypie-darker) / 0.95) 75%, 
+      hsl(var(--appypie-darker) / 0.95) 100%
+    );
+  }
+
+  .navbar-gradient-dark {
+    background: linear-gradient(180deg, 
+      hsl(var(--appypie-light) / 0.85) 0%, 
+      hsl(var(--appypie-medium) / 0.85) 25%, 
+      hsl(var(--appypie-dark) / 0.85) 50%, 
+      hsl(var(--appypie-darker) / 0.85) 75%, 
+      hsl(var(--appypie-darker) / 0.85) 100%
+    );
+  }
+
+  /* Animaciones mejoradas */
+  .appypie-glow {
+    box-shadow: 0 0 20px hsl(var(--appypie-light) / 0.3);
+  }
+
+  .appypie-glow-hover:hover {
+    box-shadow: 0 0 30px hsl(var(--appypie-light) / 0.5);
+    transform: translateY(-2px);
+  }
+
+  /* Botones con estilo AppyPie */
+  .btn-appypie {
+    @apply text-white font-semibold py-3 px-6 rounded-2xl 
+           transition-all duration-300 hover:scale-105 appypie-glow-hover 
+           border border-white/20 backdrop-blur-sm;
+    background: linear-gradient(135deg, hsl(var(--appypie-light)), hsl(var(--appypie-medium)));
+  }
+
+  .btn-appypie-outline {
+    @apply font-semibold py-3 px-6 rounded-2xl transition-all 
+           duration-300 hover:text-white hover:scale-105;
+    border: 2px solid hsl(var(--appypie-medium));
+    color: hsl(var(--appypie-medium));
+  }
+
+  .btn-appypie-outline:hover {
+    background-color: hsl(var(--appypie-medium));
+  }
+
+  /* Cards con estilo AppyPie */
+  .card-appypie {
+    @apply bg-white/80 backdrop-blur-md rounded-3xl 
+           shadow-lg hover:shadow-xl transition-all duration-300 appypie-glow-hover;
+    border: 1px solid hsl(var(--appypie-light) / 0.3);
+  }
+
+  .dark .card-appypie {
+    @apply bg-gray-900/80;
+    border: 1px solid hsl(var(--appypie-medium) / 0.3);
+  }
+
+  /* Efectos hover especiales */
+  .hover-gradient-appypie:hover {
+    background: linear-gradient(135deg, hsl(var(--appypie-light) / 0.1), hsl(var(--appypie-medium) / 0.1));
+  }
+
+  .hover-text-appypie:hover {
+    color: hsl(var(--appypie-darker));
+  }
+
+  .dark .hover-text-appypie:hover {
+    color: hsl(var(--appypie-light));
+  }
+}
+
+@layer utilities {
+  /* Utilidades responsivas para AppyPie */
+  .appypie-text-responsive {
+    @apply text-sm md:text-base lg:text-lg;
+  }
+
+  .appypie-padding-responsive {
+    @apply p-4 md:p-6 lg:p-8;
+  }
+
+  .appypie-margin-responsive {
+    @apply m-4 md:m-6 lg:m-8;
+  }
+
+  /* Transiciones suaves */
+  .transition-appypie {
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .transition-appypie-slow {
+    transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  /* Utilities para opacidad */
+  .appypie-bg-10 {
+    background-color: hsl(var(--appypie-light) / 0.1);
+  }
+
+  .appypie-bg-20 {
+    background-color: hsl(var(--appypie-light) / 0.2);
+  }
+}
