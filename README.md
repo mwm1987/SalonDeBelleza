@@ -1,50 +1,59 @@
-# Shadcn-UI Template Usage Instructions
+# 💇‍♀️ Aplicación para Salón de Belleza
 
-## technology stack
+Este es un proyecto full-stack diseñado para la gestión de un salón de belleza. Incluye una aplicación de cliente para la reserva de turnos y un potente backend serverless para automatizar notificaciones y procesos administrativos.
 
-This project is built with:
+## ✨ Características Principales
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+*   **Gestión de Turnos**: Los clientes pueden reservar, ver y gestionar sus turnos.
+*   **Sistema de Notificaciones Automatizado**:
+    *   Confirmación inmediata al reservar un turno.
+    *   Notificación de cancelación.
+    *   Recordatorios automáticos 3 horas antes de cada turno.
+*   **Comunicación con Clientes**: Los administradores pueden enviar notificaciones push individuales o masivas (promociones, anuncios) a todos los clientes.
+*   **Interfaz Moderna**: Interfaz de usuario limpia y responsiva construida con las últimas tecnologías de frontend.
 
-All shadcn/ui components have been downloaded under `@/components/ui`.
+## 🛠️ Pila Tecnológica (Tech Stack)
 
-## File Structure
+El proyecto está dividido en dos partes principales:
 
-- `index.html` - HTML entry point
-- `vite.config.ts` - Vite configuration file
-- `tailwind.config.js` - Tailwind CSS configuration file
-- `package.json` - NPM dependencies and scripts
-- `src/app.tsx` - Root component of the project
-- `src/main.tsx` - Project entry point
-- `src/index.css` - Existing CSS configuration
+### Frontend (Directorio Raíz)
 
-## Components
+*   **Framework**: React con Vite
+*   **Lenguaje**: TypeScript
+*   **UI**: shadcn/ui - Componentes reutilizables y accesibles.
+*   **Estilos**: Tailwind CSS - Un framework CSS utility-first.
 
-- All shadcn/ui components are pre-downloaded and available at `@/components/ui`
+### Backend (`/functions` directory)
 
-## Styling
+*   **Plataforma**: Firebase
+*   **Lógica Serverless**: Cloud Functions para Firebase (escritas en TypeScript).
+*   **Base de Datos**: Cloud Firestore (NoSQL).
+*   **Notificaciones Push**: Firebase Cloud Messaging (FCM).
 
-- Add global styles to `src/index.css` or create new CSS files as needed
-- Use Tailwind classes for styling components
+Para más detalles sobre el backend, consulta el `README` de las funciones.
 
-## Development
+## 🚀 Puesta en Marcha
 
-- Import components from `@/components/ui` in your React components
-- Customize the UI by modifying the Tailwind configuration
+Sigue estos pasos para configurar y ejecutar el proyecto en un entorno de desarrollo local.
 
-## Note
+### Requisitos Previos
 
-The `@/` path alias points to the `src/` directory
+*   **Node.js**: v18 o superior.
+*   **pnpm**: Gestor de paquetes (`npm install -g pnpm`).
+*   **Firebase CLI**: (`npm install -g firebase-tools`).
 
-# Commands
+### 1. Clonar el Repositorio
 
-**Install Dependencies**
+```bash
+git clone <URL_DEL_REPOSITORIO>
+cd <NOMBRE_DEL_DIRECTORIO>
+```
 
-```shell
+### 2. Configurar el Frontend
+
+En el directorio raíz del proyecto, instala las dependencias:
+
+```bash
 pnpm i
 ```
 
